@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main() {
+int escolha, palpite, var;
+    printf("Escolhe um numero entre 1 a 1000");
+    scanf("%d",&var);
+    printf("%d",var);
+
+    
+if(palpite==escolha)
+    printf("Ganhou!!ez");
+
+
+}
