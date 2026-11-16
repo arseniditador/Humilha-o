@@ -1,0 +1,22 @@
+
+#include <stdio.h>
+
+int main() {
+
+    int var [3];;
+     var [0]= 81;
+     var [1]= 109 ;
+     var [2]= 222;
+     Aux,Aux2,Contador;
+    contador=0;
+        while (contador!=tamanho){
+             Aux=var[contador];  
+             Aux2=var[contador+1];
+             if (Aux>Aux2)
+             { var[contador]=Aux2;
+             var[contador+1]=Aux  ;  
+             }
+ contador++
+}
+        
+}
